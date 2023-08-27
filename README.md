@@ -10,7 +10,7 @@
   <p>A mobile banking app designed to revolutionize your financial experience. Seamlessly manage your accounts and perform transactions with utmost ease and security</p>
 </br>
 
-## <a href="https://drive.google.com/file/d/1drE3GlR8v4k3GhwKe3wCdEGh0BG0wRrF/view?usp=sharing"><b>Download App</b></a>
+## <a href="https://mega.nz/file/aIdxHBxa#LZ9ah5HcsZl35ACJnmZFUVnVb5Q7C6EgHf-HUHOE4SI"><b>Download App</b></a>
 
 </br></br>
 
